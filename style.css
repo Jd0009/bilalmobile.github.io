@@ -305,7 +305,7 @@ body {
 
 .nav-links li a {
   text-decoration: none;
-  color: #rgba(251, 251, 251, 0.972);
+  color: #rgba;
   font-weight: 500;
   transition: color 0.3s;
 }
